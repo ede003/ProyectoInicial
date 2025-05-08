@@ -1,6 +1,6 @@
 
 
-
+<details><summary> <b> CLASE  1️⃣</b></summary>
 # Introducción a Git
 ---
 Antes de empezar...
@@ -31,4 +31,13 @@ Los repositorios pueden se de dos tipos:
 * **Locales** (en nuestro ordenador)
 * **Remotos** (en un servidor externo)
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7CpqGNI2ceZA6Kc5VJL6l2OopC2GE-4xCdduHCyo8ZhwUhxREhEfFkH0IthUE5HqVASxGXl2SET_CrKEMmmagqSxEeSfxxV9Hq_7wf41vHuXZhAOAeO59K0lvXY7MWSlV7VwLKINVf4k/s640/Repositorios.PNG" align="right" alt="Logo de Git" width="500" height="150">
+.
 
+
+## ¡Inicia tu proyecto con Git!
+Crea tu proyecto en una carpeta de tu preferencia con el comando:
+ ```
+git init <nombre de tu proyecto>
+```
+aparecerá un **(main)** al lado de tu ruta
