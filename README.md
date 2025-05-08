@@ -1,6 +1,7 @@
 
 
 <details><summary> <b> CLASE  1️⃣</b></summary>
+
 # Introducción a Git
 ---
 Antes de empezar...
@@ -26,13 +27,13 @@ Git es un sistema distribuido de control de versiones, donde los cambios en el c
 Puede tener uno o varios repositorios remotos para sincronizarlos.
 
 ## ¿Qué es un repositorio?  
-Es una carpeta de almecenamiento de varias versiones de los ficheros de un proyecto y el historial de los cambios hechos en ellos.
-Los repositorios pueden se de dos tipos:
-* **Locales** (en nuestro ordenador)
-* **Remotos** (en un servidor externo)
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7CpqGNI2ceZA6Kc5VJL6l2OopC2GE-4xCdduHCyo8ZhwUhxREhEfFkH0IthUE5HqVASxGXl2SET_CrKEMmmagqSxEeSfxxV9Hq_7wf41vHuXZhAOAeO59K0lvXY7MWSlV7VwLKINVf4k/s640/Repositorios.PNG" align="right" alt="Logo de Git" width="500" height="150">
-.
+Es una carpeta de almacenamiento de varias versiones de los ficheros de un proyecto y el historial de los cambios hechos en ellos.  
+Los repositorios pueden ser de dos tipos:
+* **Locales** (en nuestro ordenador)  
+* **Remotos** (en un servidor externo)
+  
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7CpqGNI2ceZA6Kc5VJL6l2OopC2GE-4xCdduHCyo8ZhwUhxREhEfFkH0IthUE5HqVASxGXl2SET_CrKEMmmagqSxEeSfxxV9Hq_7wf41vHuXZhAOAeO59K0lvXY7MWSlV7VwLKINVf4k/s640/Repositorios.PNG" alt="Repositorios Git" width="500" height="150"/>
 
 
 ## ¡Inicia tu proyecto con Git!
