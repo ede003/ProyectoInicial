@@ -42,3 +42,15 @@ Crea tu proyecto en una carpeta de tu preferencia con el comando:
 git init <nombre de tu proyecto>
 ```
 aparecerá un **(main)** al lado de tu ruta
+
+<details><summary> <b> CLASE 2️⃣ </b></summary></details>
+
+# States y Commits
+Git tiene 3 estados, los cuales son:
+
+1.  *Modified:* Cuando un archivo tiene cambios marcados para ser confirmados 
+
+2.  *Staged:* Los archivos modificados ya están listos para ser confirmados en el repositorio local.
+
+3.  *Commited:* Los cambios fueron guardados en el repositorio local (commit).
+   
