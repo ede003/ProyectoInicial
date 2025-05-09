@@ -54,3 +54,8 @@ Git tiene 3 estados, los cuales son:
 
 3.  *Commited:* Los cambios fueron guardados en el repositorio local (commit).
    
+## ¿Qué es un commit?
+Son aquellos que sirven para registrart los cambios que se han hecho en el repositorio
+
+> 💡 **Nota:** Podriamos imaginar un commit como una fotografía, cada una es como un estado de todos los archivos del repositorios
+
