@@ -59,3 +59,17 @@ Son aquellos que sirven para registrart los cambios que se han hecho en el repos
 
 > 💡 **Nota:** Podriamos imaginar un commit como una fotografía, cada una es como un estado de todos los archivos del repositorios
 
+### ¿Cómo hacer un commit?
+
+Para guardar los cambios que se tienen en el área de staging, añadiendo directamente un mensaje, se usará el siguiente comando:
+
+ ```
+git commit -m "Mensaje"
+```
+>El mensaje se usará como el título del commit.
+
+Si se quiere añadir información adicional, se puede volver a usar el parámetro **-m** las veces que se requiera.
+
+ ```
+git commit -m "Mensaje" -m "Mensaje adicional"
+```
