@@ -74,3 +74,7 @@ Si se quiere añadir información adicional, se puede volver a usar el parámetr
  ```
 git commit -m "Mensaje" -m "Mensaje adicional"
 ```
+## ¿Qué es el HEAD?
+Es como un indicador que dice: "ESTÁS AQUÍ"
+Solo se puede estar en un lugar, ese es el HEAD.
+
