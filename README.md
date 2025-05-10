@@ -226,6 +226,27 @@ Usa las ramas:
 </details>
 
 <details><summary> <b> CLASE 7️⃣ </b></summary>
+
+# BUENAS PRÁCTICAS DE GIT
+
+## ¿Por qué son importantes las buenas prácticas?
+* Funcionan como un estándar
+* Resolver conflictos durante el desarrollo es más fácil
+* El historial de commits es más legible
+
+**1. ¿Cada cuánto debería hacer un commit?**
+A menudo.
+>Los commits deben ser pequeños agrupando pequeñas mejoras o acciones.
+
+## ¿Como escribir un buen commit?
+>Se debe usar un verbo imperativo.Por ejemplo: "Add", "Feat", etc.
+>No se debe usar puntos suspensivos o punto final.
+>El commit debe tener como máximo 50 caracteres.
+>El commit debe ser claro y especifico.
+>Se debe usar un prefijo para los commits y que estos sean más semánticos.
+
+
+
 </details>
 
 <details><summary> <b> CLASE 8️⃣ </b></summary>
