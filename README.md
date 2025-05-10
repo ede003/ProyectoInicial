@@ -78,3 +78,9 @@ git commit -m "Mensaje" -m "Mensaje adicional"
 Es como un indicador que dice: "ESTÁS AQUÍ"
 Solo se puede estar en un lugar, ese es el HEAD.
 
+## ¿Qué es una rama?
+Es una instantánea (snapshot) de la división del estado del código
+
+>Es como un nuevo apuntador hacia una de las confirmaciones
+
+<img src="https://res.cloudinary.com/snyk/images/f_auto,q_auto/w_1240,h_384,c_scale/v1/wordpress-sync/image1-11/image1-11-1240x384.png" alt="Repositorios Git" width="500" height="150"/>
