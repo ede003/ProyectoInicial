@@ -301,7 +301,7 @@ feat: add new search feature
 
 - **git checkout**
 
-<details><summary> <b> CLASE 8️⃣ </b></summary>
+<details><summary> <b> CLASE 8️⃣ </b>
 
 # HOOKS, ALIAS Y TRUCOS DE GIT
 
@@ -328,5 +328,5 @@ feat: add new search feature
 ## ¿Qué son los Alias?
 >Son atajos que permiten personalizar los comandos de Git.
 
-
+</summary>
 </details>
