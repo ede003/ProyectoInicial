@@ -44,7 +44,14 @@ git init <nombre de tu proyecto>
 aparecerá un **(main)** al lado de tu ruta
 </details>
 
-<details><summary> <b> CLASE 2️⃣ </b></summary></details>
+Resumen comandos:
+
+| Comando                     | Descripción                                                                |
+| -------------------------   | -----------------------------------------------------------------          |
+| `git init <nuevo_proyecto>` | Inicia un nuevo repositorio Git.                                           |
+
+
+<details><summary> <b> CLASE 2️⃣ </b></summary>
 
 # States y Commits
 Git tiene 3 estados, los cuales son:
@@ -84,3 +91,23 @@ Es una instantánea (snapshot) de la división del estado del código
 >Es como un nuevo apuntador hacia una de las confirmaciones
 
 <img src="https://res.cloudinary.com/snyk/images/f_auto,q_auto/w_1240,h_384,c_scale/v1/wordpress-sync/image1-11/image1-11-1240x384.png" alt="Repositorios Git" width="500" height="150"/>
+
+</details>
+
+Comandos nuevos:
+
+| Comando                     | Descripción                                                                |
+| -------------------------   | -----------------------------------------------------------------          |
+| `git status`                | Muestra el estado actual del proyecto.                                     |
+| `git add`                   | Agrega todos los archivos al repositorio de Git.                           |
+| `git restore --staged`      | Evita que los cambios en el área de preparación se incluyan en el commit.  |
+| `git commit`                | Genera un registro del cambio realizado.                                   |
+| `git log`                   | Muestra un historial de los commits realizados.                            |
+| `git commit -amend-m`       | Permite editar el mensaje del commit.                                      |
+| `git branch `               | Nos muestra todas las ramas del repositorio actual.                        |
+| `git branch <nombre_rama>`  | Crear una rama este tiene diferentes complementos.                         |
+| `git switch <nombre_rama>`  | Permite cambiar de una rama a otra en nuestro repositorio loca.            |
+| `git checkout <nombre_rama>`| Cambia la ubicación actual al "nombre_rama" con todos los cambios.         |
+| `git branch -a`             | Permite ver a las ramas locales y remotas.                                 |
+| `git branch -d`             | Permite eliminar una rama.                                 |
+| `git branch -m currentName newName`             | Permite cambiar nombre de una rama                                |
