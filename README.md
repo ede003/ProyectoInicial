@@ -99,7 +99,7 @@ Comandos nuevos:
 | Comando                     | Descripción                                                                |
 | -------------------------   | -----------------------------------------------------------------          |
 | `git status`                | Muestra el estado actual del proyecto.                                     |
-| `git add`                   | Agrega todos los archivos al repositorio de Git.                           |
+| `git add .`                   | Agrega todos los archivos al repositorio de Git.                           |
 | `git restore --staged`      | Evita que los cambios en el área de preparación se incluyan en el commit.  |
 | `git commit`                | Genera un registro del cambio realizado.                                   |
 | `git log`                   | Muestra un historial de los commits realizados.                            |
@@ -111,3 +111,13 @@ Comandos nuevos:
 | `git branch -a`             | Permite ver a las ramas locales y remotas.                                 |
 | `git branch -d`             | Permite eliminar una rama.                                 |
 | `git branch -m currentName newName`             | Permite cambiar nombre de una rama                                |
+
+<details><summary> <b> CLASE 3️⃣ </b></summary></details>
+
+## ¿Para qué sirven las ramas?
+Permiten realizar un desarrollo no lineal y colaborativo
+
+>Las ramas pueden acabar de dos maneras:
+>* Terminar en el olvido
+>* Ser fusionada en otra rama
+
