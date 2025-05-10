@@ -121,3 +121,6 @@ Permiten realizar un desarrollo no lineal y colaborativo
 >* Terminar en el olvido
 >* Ser fusionada en otra rama
 
+## Fusionar ramas
+ Es el proceso en el cual se integran los cambios de una rama en otra
+
