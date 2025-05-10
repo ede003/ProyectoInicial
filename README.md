@@ -174,3 +174,28 @@ Comandos:
 | `git remote -v`             | Muestra que nuestro repositorio esta enlazado con el repositorio remoto.   |
 | `git push origin <nombre_rama>`| Creamos una rama remota.				                   |
 | `git fetch`                 | Actualiza la información entre mi repositorio remoto y local.	           |
+
+<details><summary> <b> CLASE 5️⃣  </b></summary>
+
+# PUSH, PULL y PULL REQUEST
+> git push
+Nos sirve para empujar cualquier cmabio del repositorio local al remoto
+
+> git pull
+Nos sirve para descargar los cambios del repositorio remoro al local
+
+### ¿Qué es una pull request?
+Es una petición de cambios que se envía al respositorio original
+
+</details>
+
+<details><summary> <b> CLASE 6️⃣  </b></summary>
+
+</details>
+
+<details><summary> <b> CLASE 7️⃣ </b></summary>
+</details>
+
+<details><summary> <b> CLASE 8️⃣ </b></summary>
+
+</details>
