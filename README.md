@@ -114,6 +114,8 @@ Comandos nuevos:
 
 <details><summary> <b> CLASE 3️⃣ </b></summary>
 
+# RAMAS
+
 ## ¿Para qué sirven las ramas?
 Permiten realizar un desarrollo no lineal y colaborativo
 
@@ -199,8 +201,27 @@ Comandos:
 | `git pull`               | Envia los commits locales al repositorio remoto y establece a la rama como referencia. |
 | `git pull --all`            | Descarga todos los cambios de todas las ramas remotas y  las fusiona con las del repositorio local. |
 
-
 <details><summary> <b> CLASE 6️⃣  </b></summary>
+
+# GIT FLOW, GIT HUB FLOW
+
+## GIT FLOW
+### ¿Qué es un GitFlow?
+> Es la manera en la que el equipo de desarrollo va a utilizar Git para poder trabajar de manera colaborativa.
+
+ <img src="https://www.bitbull.it/blog/git-flow-come-funziona/gitflow-1.png" alt="Repositorios Git" width="500" height="230"/>
+
+Usa las ramas:
+* Main, contiene el código de producción
+* Develop: Esta rama de desarrollo donde se realizan los cambios principales.
+* Features: Estos son caracteristicas nuevas del proyecto.
+* Release: Estos son cambios de último momento.
+* Hotflix: Son parches o arreglar bugs pequeños que son parte del main. 
+
+## GIT HUB FLOW
+>Es un flujo de trabajo de git mas simple, porque solo utiliza dos ramas.
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1668070000889/rvf5Hx764.png" alt="Repositorios Git" width="500" height="200"/>
 
 </details>
 
