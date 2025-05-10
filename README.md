@@ -266,7 +266,7 @@ feat: add new search feature
 
 </details>
 
-<details><summary> <b> CLASE 7️⃣ </b></summary> 
+<details><summary> <b> CLASE 7️⃣ </b></summary>
 
 # DESHACER CAMBIOS
 
@@ -300,8 +300,9 @@ feat: add new search feature
 >Entre estos tenemos:
 
 - **git checkout**
+</details>
 
-<details><summary> <b> CLASE 8️⃣ </b>
+<details><summary> <b> CLASE 8️⃣ </b> </summary>
 
 # HOOKS, ALIAS Y TRUCOS DE GIT
 
