@@ -131,6 +131,14 @@ Permiten realizar un desarrollo no lineal y colaborativo
 Eliminar ramas es una buena práctica 
 > Recordemos que las ramas tienen un propósito único y  corto tiempo de periodo
 
+## Conflictos en Git 
+Un conflicto en Git ocurre cuando Git no puede fusionar automáticamente cambios de diferentes ramas porque hay modificaciones incompatibles en las mismas líneas de un archivo o archivos diferentes que interfieren entre sí.
+
+### ¿Cómo resolver un conflicto en Git?
+* Se debe elegir una versión
+* Combinar ambas opciones
+* Escribir algo nuevo
+
 </details>
 
 Resumen de comandos
@@ -142,4 +150,6 @@ Resumen de comandos
 | `git branch -a`                | Lista todas la ramas, locales y remotas                                     |
 | `ggit branch -d <nombre rama>`                | Eimina una rama local (solo si ya fue fusionada, de lo contrario, usar -D para forzar).                                     |
 | `git merge <nombre rama>`                | Fusiona la rama especificada con la rama actual..                                     |
-                                     |
+
+<details><summary> <b> CLASE 4️⃣  </b></summary>
+
