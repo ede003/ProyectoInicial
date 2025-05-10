@@ -189,6 +189,17 @@ Es una petición de cambios que se envía al respositorio original
 
 </details>
 
+Comandos:
+| Comando                     | Descripción                                                                |
+| -------------------------   | -----------------------------------------------------------------          |
+| `git push -u`               | Envia los commits locales al repositorio remote y establece la rama como referencia. |
+| `git push -d <alias> <rama-remota>` | Borrar una rama remota.                                            |
+| `git push -f`               | Fuerza un push.                                                            |
+| `git push <alias> <rama 1> <rama 2> <rama N>` | Enviar los commits locales de una o varias ramas específicas a un repositorio remoto.|
+| `git pull`               | Envia los commits locales al repositorio remoto y establece a la rama como referencia. |
+| `git pull --all`            | Descarga todos los cambios de todas las ramas remotas y  las fusiona con las del repositorio local. |
+
+
 <details><summary> <b> CLASE 6️⃣  </b></summary>
 
 </details>
