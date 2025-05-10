@@ -245,7 +245,26 @@ A menudo.
 >El commit debe ser claro y especifico.
 >Se debe usar un prefijo para los commits y que estos sean más semánticos.
 
+## Ejemplo
 
+feat: add new search feature
+^--^  ^--------------------^
+│     │
+│     └--> # Descripción de los cambios
+│
+└──------> # Tipo del cambio
+
+## Prefijos para los commits
+
+- **feat**: Nueva característica para el usuario.
+- **fix** : Es cuando se arregla un bug que afecta al usuario..
+- **perf**: Es para cambios que mejoran el rendimiento del sitio. 
+- **build**: Es para cambios en el sistema de build, tareas de despliegue o instalación.
+- **ci** : Es para cambios en la integración continua.
+- **docs** : Es para cambios en la documentación.
+- - **refactor**: Es para la refactorización del código como cambios de nombre de variables o funciones.
+- **style** : Es para cambios de formato, tabulaciones, espacios o puntos y coma, etc; no afectan al usuario.
+- **test** : Este añade tests o refactoriza uno existente.
 
 </details>
 
