@@ -128,3 +128,5 @@ Permiten realizar un desarrollo no lineal y colaborativo
 
 Eliminar ramas es una buena práctica 
 > Recordemos que las ramas tienen un propósito único y  corto tiempo de periodo
+
+<img src="https://blueelephpant.wordpress.com/wp-content/uploads/2018/08/1_tnvrls6dg7vft0zgdtfu_w.png" alt="Repositorios Git" width="500" height="230"/>
