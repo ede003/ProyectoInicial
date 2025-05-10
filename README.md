@@ -165,3 +165,12 @@ Es una copia de un proyecto en la nube, el cual se puede sincronizar con un repo
 
 </details>
 
+Comandos:
+| Comando                     | Descripción                                                                |
+| -------------------------   | -----------------------------------------------------------------          |
+| `git remote add <alias> <URL-repositorio-remoto>`| Enlaza nuestro repositorio local con nuestro repositorio remoto.|
+| `git push <alias> main`     | Sicroniza nuestros cambios de mi repositorio local con mi repositorio remoto.|
+| `git clone <url-repositorio-remoto>`| Sirve para clonar un repositorio existente en un nuevo directorio local.|
+| `git remote -v`             | Muestra que nuestro repositorio esta enlazado con el repositorio remoto.   |
+| `git push origin <nombre_rama>`| Creamos una rama remota.				                   |
+| `git fetch`                 | Actualiza la información entre mi repositorio remoto y local.	           |
