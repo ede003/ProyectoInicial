@@ -112,7 +112,7 @@ Comandos nuevos:
 | `git branch -d`             | Permite eliminar una rama.                                 |
 | `git branch -m currentName newName`             | Permite cambiar nombre de una rama                                |
 
-<details><summary> <b> CLASE 3️⃣ </b></summary></details>
+<details><summary> <b> CLASE 3️⃣ </b></summary>
 
 ## ¿Para qué sirven las ramas?
 Permiten realizar un desarrollo no lineal y colaborativo
@@ -124,9 +124,22 @@ Permiten realizar un desarrollo no lineal y colaborativo
 ## Fusionar ramas
  Es el proceso en el cual se integran los cambios de una rama en otra
 
+ <img src="https://blueelephpant.wordpress.com/wp-content/uploads/2018/08/1_tnvrls6dg7vft0zgdtfu_w.png" alt="Repositorios Git" width="500" height="230"/>
+
 ## Eliminar ramas
 
 Eliminar ramas es una buena práctica 
 > Recordemos que las ramas tienen un propósito único y  corto tiempo de periodo
 
-<img src="https://blueelephpant.wordpress.com/wp-content/uploads/2018/08/1_tnvrls6dg7vft0zgdtfu_w.png" alt="Repositorios Git" width="500" height="230"/>
+</details>
+
+Resumen de comandos
+| Comando                     | Descripción                                                                |
+| -------------------------   | -----------------------------------------------------------------          |
+| `git merge --edit`                | Abre el editor antes de hacer el commit.                                     |
+| `git merge --no-commit`                | Evita que se haga commit automáticamente.                                     |
+| `git branch <nombre rama>`                | Crea una nueva rama con el nombre especificado.                                     |
+| `git branch -a`                | Lista todas la ramas, locales y remotas                                     |
+| `ggit branch -d <nombre rama>`                | Eimina una rama local (solo si ya fue fusionada, de lo contrario, usar -D para forzar).                                     |
+| `git merge <nombre rama>`                | Fusiona la rama especificada con la rama actual..                                     |
+                                     |
