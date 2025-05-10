@@ -153,3 +153,15 @@ Resumen de comandos
 
 <details><summary> <b> CLASE 4️⃣  </b></summary>
 
+# GIT HUB
+
+## ¿Git y GitHub son lo mismo?
+No... 
+* Git es un control de versiones.
+* GitHub es un servicio de alojamiento en la nube de código fuente basado en el sistema de control de versiones que git ofrece para manejar repositorios.
+
+## Repositorios remotos
+Es una copia de un proyecto en la nube, el cual se puede sincronizar con un repositorio local
+
+</details>
+
