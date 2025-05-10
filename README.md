@@ -124,3 +124,7 @@ Permiten realizar un desarrollo no lineal y colaborativo
 ## Fusionar ramas
  Es el proceso en el cual se integran los cambios de una rama en otra
 
+## Eliminar ramas
+
+Eliminar ramas es una buena práctica 
+> Recordemos que las ramas tienen un propósito único y  corto tiempo de periodo
