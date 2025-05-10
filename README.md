@@ -165,6 +165,15 @@ No...
 ## Repositorios remotos
 Es una copia de un proyecto en la nube, el cual se puede sincronizar con un repositorio local
 
+# PUSH, PULL y PULL REQUEST
+> git push
+Nos sirve para empujar cualquier cmabio del repositorio local al remoto
+
+> git pull
+Nos sirve para descargar los cambios del repositorio remoro al local
+
+### ¿Qué es una pull request?
+Es una petición de cambios que se envía al respositorio original 
 </details>
 
 Comandos:
@@ -176,24 +185,6 @@ Comandos:
 | `git remote -v`             | Muestra que nuestro repositorio esta enlazado con el repositorio remoto.   |
 | `git push origin <nombre_rama>`| Creamos una rama remota.				                   |
 | `git fetch`                 | Actualiza la información entre mi repositorio remoto y local.	           |
-
-<details><summary> <b> CLASE 5️⃣  </b></summary>
-
-# PUSH, PULL y PULL REQUEST
-> git push
-Nos sirve para empujar cualquier cmabio del repositorio local al remoto
-
-> git pull
-Nos sirve para descargar los cambios del repositorio remoro al local
-
-### ¿Qué es una pull request?
-Es una petición de cambios que se envía al respositorio original
-
-</details>
-
-Comandos:
-| Comando                     | Descripción                                                                |
-| -------------------------   | -----------------------------------------------------------------          |
 | `git push -u`               | Envia los commits locales al repositorio remote y establece la rama como referencia. |
 | `git push -d <alias> <rama-remota>` | Borrar una rama remota.                                            |
 | `git push -f`               | Fuerza un push.                                                            |
@@ -201,7 +192,10 @@ Comandos:
 | `git pull`               | Envia los commits locales al repositorio remoto y establece a la rama como referencia. |
 | `git pull --all`            | Descarga todos los cambios de todas las ramas remotas y  las fusiona con las del repositorio local. |
 
-<details><summary> <b> CLASE 6️⃣  </b></summary>
+
+</details>
+
+<details><summary> <b> CLASE 5️⃣  </b></summary>
 
 # GIT FLOW, GIT HUB FLOW
 
@@ -225,7 +219,7 @@ Usa las ramas:
 
 </details>
 
-<details><summary> <b> CLASE 7️⃣ </b></summary>
+<details><summary> <b> CLASE 6️⃣  </b></summary>
 
 # BUENAS PRÁCTICAS DE GIT
 
@@ -271,6 +265,8 @@ feat: add new search feature
 >Para elegir un buen nombre de la rama, es recomendable usar el nombre de la accion que se va a realizar en la rama.
 
 </details>
+
+<details><summary> <b> CLASE 7️⃣ </b></summary> 
 
 <details><summary> <b> CLASE 8️⃣ </b></summary>
 
