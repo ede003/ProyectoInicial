@@ -234,18 +234,18 @@ Usa las ramas:
 * Resolver conflictos durante el desarrollo es más fácil
 * El historial de commits es más legible
 
-**1. ¿Cada cuánto debería hacer un commit?**
+## **1. ¿Cada cuánto debería hacer un commit?**
 A menudo.
 >Los commits deben ser pequeños agrupando pequeñas mejoras o acciones.
 
-## ¿Como escribir un buen commit?
+### ¿Como escribir un buen commit?
 >Se debe usar un verbo imperativo.Por ejemplo: "Add", "Feat", etc.
 >No se debe usar puntos suspensivos o punto final.
 >El commit debe tener como máximo 50 caracteres.
 >El commit debe ser claro y especifico.
 >Se debe usar un prefijo para los commits y que estos sean más semánticos.
 
-## Ejemplo
+#### Ejemplo
 
 feat: add new search feature
 ^--^  ^--------------------^
@@ -254,7 +254,7 @@ feat: add new search feature
 │
 └──------> # Tipo del cambio
 
-## Prefijos para los commits
+### Prefijos para los commits
 
 - **feat**: Nueva característica para el usuario.
 - **fix** : Es cuando se arregla un bug que afecta al usuario..
@@ -265,6 +265,10 @@ feat: add new search feature
 - - **refactor**: Es para la refactorización del código como cambios de nombre de variables o funciones.
 - **style** : Es para cambios de formato, tabulaciones, espacios o puntos y coma, etc; no afectan al usuario.
 - **test** : Este añade tests o refactoriza uno existente.
+
+## 2. Buenas prácticas en ramas
+#### ¿Como elegir un buen nombre para mi rama?
+>Para elegir un buen nombre de la rama, es recomendable usar el nombre de la accion que se va a realizar en la rama.
 
 </details>
 
