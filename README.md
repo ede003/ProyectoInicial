@@ -42,6 +42,7 @@ Crea tu proyecto en una carpeta de tu preferencia con el comando:
 git init <nombre de tu proyecto>
 ```
 aparecerá un **(main)** al lado de tu ruta
+</details>
 
 <details><summary> <b> CLASE 2️⃣ </b></summary></details>
 
@@ -59,7 +60,7 @@ Son aquellos que sirven para registrart los cambios que se han hecho en el repos
 
 > 💡 **Nota:** Podriamos imaginar un commit como una fotografía, cada una es como un estado de todos los archivos del repositorios
 
-### ¿Cómo hacer un commit?
+## ¿Cómo hacer un commit?
 
 Para guardar los cambios que se tienen en el área de staging, añadiendo directamente un mensaje, se usará el siguiente comando:
 
